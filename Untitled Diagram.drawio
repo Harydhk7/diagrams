@@ -48,8 +48,8 @@
             <mxPoint x="900" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ea667e15c223fc-5" value="Doctors&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="460" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="17ea667e15c223fc-5" value="Doctors / receptionist" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="461" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sWwbfS12lbaWll6sxIh0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17ea667e15c223fc-7" target="sWwbfS12lbaWll6sxIh0-29">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +69,7 @@
         <mxCell id="sWwbfS12lbaWll6sxIh0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17ea667e15c223fc-8" target="sWwbfS12lbaWll6sxIh0-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-8" value="Index page with Doctor&#39;s detail" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="17ea667e15c223fc-8" value="Index page with Doctor&#39;s and employee detail" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sWwbfS12lbaWll6sxIh0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="17ea667e15c223fc-11">
